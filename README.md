@@ -2,9 +2,12 @@
 <h3 align="center">Economics graduate skilled in SQL, Python, Excel, Power BI & Tableau, focused on turning raw data into actionable business insights.</h3>
 
 
-- 📌 Projects I’ve worked on :  **End-to-end data analytics projects using SQL, Python & Power BI, covering customer, product, and marketing analysis**
+- 📌 Projects I’ve worked on :
+  - **Bank Loan Default Risk Analysis (SQL · Python · Credit Risk Analytics)** : [LINK](https://github.com/rohittydvv/bank-loan-default-risk-analysis)
+  - **BigBasket Quick Commerce Analytics (SQL · Power BI · Data Analytics Project)** : [LINK](https://github.com/rohittydvv/bigbasket-sql-powerbi-analytics)
+  - **Instacart Customer & Business Analysis (Excel · Data Analytics Project)** : [LINK](https://github.com/rohittydvv/Instacart-Dashboard-Excel)
 
-- 🌱 Currently learning : **Power BI DAX, Python for analytics & analytical storytelling**
+- 🌱 Currently learning : **Python for analytics & analytical storytelling**
 
 - 🤝 Open to collaborating on : **Data-driven projects involving analytics, dashboards, business problem solving, and real-world datasets**
 
